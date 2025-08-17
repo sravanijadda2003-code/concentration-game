@@ -1,5 +1,3 @@
-// A simple Java program to demonstrate 
-// Memory Game
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
@@ -79,4 +77,5 @@ public class concentrationgame {
         }
         System.out.println("|");
     }
+
 }
